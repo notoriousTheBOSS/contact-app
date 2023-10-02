@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Addcontact from "./add/addcontact";
+import Addcontact from "./add/Addcontact";
 import useContact from "./Store/addContact";
 
 const App = () => {
